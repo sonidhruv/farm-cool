@@ -1,0 +1,6 @@
+<a href="assets/images/g1.jpg" data-lightbox="example-set" class="mb-4"
+            data-title="lorem ipsum dolor sit amet">
+            <figure>
+              <img src="assets/images/g1.jpg" alt="product" class="img-fluid">
+            </figure>
+          </a>
